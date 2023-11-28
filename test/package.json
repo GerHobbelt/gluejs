@@ -3,7 +3,7 @@
   "description": "Tests for gluejs",
   "dependencies": {
     "coffee-script": "~1.6.3",
-    "jade": "~0.35.0",
+    "jade": "~1.8.0",
     "brfs": "0.0.8",
     "coffeeify": "~0.5.2",
     "es6-module-transpiler": "~0.3.1",
